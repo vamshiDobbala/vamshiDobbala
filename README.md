@@ -22,14 +22,43 @@ Data Engineer | Data Analyst | Analytics Engineering Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-### Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+<p align="left">
+
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
+</a>
+
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" alt="dbt" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+</a>
+
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+</p>
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
