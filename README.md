@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vamsi Dobbala</h1>
 
-<h3 align="center">
-Data Engineer | Data Analyst | Analytics Engineering Enthusiast
-</h3>
+<h3 align="center">Data Engineer · Data Analyst</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Analyst;SQL+%7C+Snowflake+%7C+DBT+%7C+Databricks;Building+Data+Pipelines+and+Analytics+Solutions" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Data+Engineer+%7C+Data+Analyst;Snowflake+%7C+DBT+%7C+SQL+%7C+Power+BI;Building+BI+Automation+%26+Workflow+Integrations" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
@@ -14,11 +15,12 @@ Data Engineer | Data Analyst | Analytics Engineering Enthusiast
 
 ## 🚀 About Me
 
-- 💼 Working as a **Data Engineer / Data Analyst**
-- 📊 Passionate about transforming raw data into actionable insights
-- ⚙️ Interested in **Analytics Engineering**, **AI Automation**, and **Modern Data Stack**
-- 📚 Currently learning deeper concepts in **DBT**, **Data Engineering**, and **AI workflows**
-- 🎯 Focused on building scalable and efficient data solutions
+- 💼 Data Engineer / Analyst with experience in modern BI and analytics workflows
+- ⚙️ Building BI automation workflows and workflow integrations
+- 🔌 Experience embedding Apache Superset into production applications (WGS / Futuro POC)
+- 🧪 Built a Data Validation Framework for validating source data and Power BI DAX measures
+- 📊 Built Power BI Theme Studio — [powerbithemegenerator.lovable.app](https://powerbithemegenerator.lovable.app)
+- 📚 Currently deepening skills in AI-powered workflow automation using Make and n8n
 
 ---
 
@@ -28,41 +30,110 @@ Data Engineer | Data Analyst | Analytics Engineering Enthusiast
 
 <p align="left">
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<a href="https://www.getdbt.com/" target="_blank">
+<img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 </a>
 
 <a href="https://www.snowflake.com/" target="_blank">
 <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </a>
 
-<a href="https://www.getdbt.com/" target="_blank">
-<img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
-<a href="https://www.databricks.com/" target="_blank">
-<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<a href="https://superset.apache.org/" target="_blank">
+<img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white"/>
+</a>
+
+<a href="https://cloud.google.com/bigquery" target="_blank">
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </a>
 
 </p>
-Tools & Version Control
-<p href="https://git-scm.com/" target="_blank">
+
+### Languages & Dev Tools
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamshiDobbala&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshiDobbala&layout=compact&theme=tokyonight" height="170"/>
-</p>
+
+### 🏗️ AWS DBT Snowflake Pipeline
+
+Built a modern medallion architecture pipeline on the Airbnb dataset including:
+- Bronze → Silver → Gold data layers
+- Incremental DBT models
+- Custom DBT macros
+- Jinja templating workflows
+- OBT (One Big Table) gold layer design
+---
+**Tech Stack:** AWS · DBT · Snowflake · SQL · Jinja
+
+### 🎨 BI Theme Studio
+🔗 https://powerbithemegenerator.lovable.app
+
+Built a Power BI theme generator with:
+- WCAG accessibility checker
+- AI-powered color suggestions
+- Theme harmony generation
+- Exportable JSON themes
+
+**Tech Stack:** React · TypeScript · Vite
+
+---
+
+### ⚙️ Power BI MCP Integration
+
+Built MCP integrations for Power BI semantic models including:
+- DAX validation workflows
+- KPI measure testing
+- Snowflake reconciliation
+
+**Tech Stack:** Power BI · MCP · Python · Snowflake
+
+---
+
+### 🧪 DQV Validation Framework
+
+Developed a Data Quality Validation (DQV) framework for validating:
+- Source-to-target data consistency
+- Power BI DAX measure accuracy
+- Automated reconciliation workflows
+- BI reporting validation processes
+
+**Tech Stack:** Snowflake · SQL · Power BI · Python
+
+---
+
+### 📊 Superset Dashboard Automation
+
+Created automated dashboard workflows in Apache Superset with:
+- Chart-to-dashboard binding
+- Sales analytics dashboards
+- BigQuery integration
+
+**Tech Stack:** Apache Superset · BigQuery
 
 ---
 
@@ -74,25 +145,10 @@ Tools & Version Control
 
 ---
 
-## 📌 Current Focus
-
-- Building analytics and data engineering projects
-- Strengthening SQL and DBT expertise
-- Exploring AI-powered automation workflows
-- Creating scalable reporting and validation solutions
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vamsi-dobbala-073238213" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-<p align="center">
-  <i>"Turning data into meaningful insights and scalable solutions."</i>
+  <a href="https://www.linkedin.com/in/vamsi-dobbala-073238213" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
