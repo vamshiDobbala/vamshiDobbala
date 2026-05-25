@@ -49,7 +49,7 @@ Data Engineer | Data Analyst | Analytics Engineering Enthusiast
 </a>
 
 </p>
-### Tools & Version Control
+Tools & Version Control
 <p href="https://git-scm.com/" target="_blank">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
