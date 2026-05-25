@@ -87,6 +87,7 @@ Built a modern medallion architecture pipeline on the Airbnb dataset including:
 - Custom DBT macros
 - Jinja templating workflows
 - OBT (One Big Table) gold layer design
+- SCD Type 2 snapshots, star schema 
 ---
 **Tech Stack:** AWS · DBT · Snowflake · SQL · Jinja
 
@@ -128,7 +129,7 @@ Developed a Data Quality Validation (DQV) framework for validating:
 
 ### 📊 Superset Dashboard Automation
 
-Created automated dashboard workflows in Apache Superset with:
+Built Sales performance dashboard from scratch via MCP integration
 - Chart-to-dashboard binding
 - Sales analytics dashboards
 - BigQuery integration
