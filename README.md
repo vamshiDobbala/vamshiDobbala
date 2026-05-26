@@ -16,10 +16,9 @@
 ## 🚀 About Me
 
 - 💼 Data Engineer / Analyst with experience in modern BI and analytics workflows
-- ⚙️ Building BI automation workflows and workflow integrations
-- 🔌 Experience embedding Apache Superset into production applications (WGS / Futuro POC)
-- 🧪 Built a Data Validation Framework for validating source data and Power BI DAX measures
 - 📊 Built Power BI Theme Studio — [powerbithemegenerator.lovable.app](https://powerbithemegenerator.lovable.app)
+- ⚙️ Building BI automation workflows and workflow integrations
+- 🧪 Built a Data Validation Framework for validating source data and Power BI DAX measures
 - 📚 Currently deepening skills in AI-powered workflow automation using Make and n8n
 
 ---
