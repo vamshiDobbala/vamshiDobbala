@@ -78,6 +78,16 @@
 ## 📌 Featured Projects
 
 
+### 🏪 Superstore Enterprise Data Warehouse
+Built a production-grade Kimball Star Schema pipeline from scratch for an e-commerce dataset including:
+- Complex Point-in-Time Fact Table Joins
+- SCD Type 2 history tracking via DBT Snapshots
+- Incremental DBT models for compute optimization
+- Deterministic Surrogate Key generation via `dbt_utils`
+- Automated Referential Integrity & Data Quality testing
+**Tech Stack:** DBT · Snowflake · SQL · Kimball Modeling
+---
+
 ### 🏗️ AWS DBT Snowflake Pipeline
 
 Built a modern medallion architecture pipeline on the Airbnb dataset including:
