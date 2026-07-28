@@ -13,6 +13,8 @@ from PIL import Image
 import cv2
 
 DENSITY_RAMP = " .`:-=+*cs#%@"
+GAMMA = 1.18       # pushes midtones down so the face lands in sparser characters
+WHITE_FLOOR = 0.80  # luminance at/above this is forced blank -- cleanly clears the background
 
 MARGIN = 20
 ROW_H = 15
@@ -63,8 +65,11 @@ def to_ascii_grid(img: Image.Image, cols: int, cell_w: float, cell_h: float) -> 
     for r in range(rows):
         line = []
         for c in range(cols):
-            v = 255 - int(gray[r, c])  # darker pixel -> denser char (portrait on light bg)
-            idx = min(ramp_len - 1, v * ramp_len // 256)
+            lum = pow(gray[r, c] / 255.0, GAMMA)
+            if lum >= WHITE_FLOOR:
+                line.append(" ")
+                continue
+            idx = min(ramp_len - 1, int((1.0 - lum) * (ramp_len - 1) + 0.5))
             line.append(DENSITY_RAMP[idx])
         grid.append("".join(line))
     return grid
