@@ -1,0 +1,33 @@
+name: Update profile art
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Regenerate contribution heatmap
+        run: python scripts/generate_heatmap.py vamshiDobbala assets/contrib-heatmap.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/contrib-heatmap.svg
+          git diff --staged --quiet || git commit -m "chore: update contribution heatmap [skip ci]"
+          git push

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vamsi Dobbala</h1>
 
-<h3 align="center">Analytics Engineer focused on AI-powered data workflowst</h3>
+<h3 align="center">Analytics Engineer focused on AI-powered data workflows</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,6 +13,20 @@
 
 ---
 
+<div align="center">
+  <h3><code>vamsi@github ~ $ ./contributions.sh</code></h3>
+  <img src="./assets/contrib-heatmap.svg" width="775" alt="Contribution heatmap" />
+</div>
+
+---
+
+<div align="center">
+  <h3><code>vamsi@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top" width="380"><img src="./assets/vamsi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+      <td valign="top">
+
 ## 🚀 About Me
 
 - 💼 Data Engineer / Analyst with experience in modern BI and analytics workflows
@@ -20,6 +34,11 @@
 - ⚙️ Building BI automation workflows and workflow integrations
 - 🧪 Developed an automated Data Quality Validation framework for validating source systems against Power BI DAX measures using Snowflake and Streamlit
 - 📚 Currently deepening skills in AI-powered workflow automation using Make and n8n
+
+</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
