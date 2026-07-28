@@ -15,7 +15,7 @@
 
 <div align="center">
   <h3><code>vamsi@github ~ $ ./contributions.sh</code></h3>
-  <img src="./assets/contrib-heatmap.svg" width="775" alt="Contribution heatmap" />
+  <img src="https://cdn.jsdelivr.net/gh/vamshiDobbala/vamshiDobbala@main/assets/contrib-heatmap.svg" width="775" alt="Contribution heatmap" />
 </div>
 
 ---
