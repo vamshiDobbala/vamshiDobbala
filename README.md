@@ -27,13 +27,14 @@
       <td valign="top" width="380"><img src="https://cdn.jsdelivr.net/gh/vamshiDobbala/vamshiDobbala@main/assets/vamsi-ascii.svg?v=2" width="370" alt="ASCII portrait" /></td>
       <td valign="top">
 
-## 🚀 About Me
-
-- 💼 Data Engineer / Analyst with experience in modern BI and analytics workflows
-- 📊 Built a Power BI Theme Studio to simplify and accelerate enterprise dashboard theming workflows — [powerbithemegenerator.lovable.app](https://powerbithemegenerator.lovable.app)
-- ⚙️ Building BI automation workflows and workflow integrations
-- 🧪 Developed an automated Data Quality Validation framework for validating source systems against Power BI DAX measures using Snowflake and Streamlit
-- 📚 Currently deepening skills in AI-powered workflow automation using Make and n8n
+> [!NOTE]
+> **🚀 About Me**
+>
+> - 💼 Data Engineer / Analyst with experience in modern BI and analytics workflows
+> - 📊 Built a Power BI Theme Studio to simplify and accelerate enterprise dashboard theming workflows — [powerbithemegenerator.lovable.app](https://powerbithemegenerator.lovable.app)
+> - ⚙️ Building BI automation workflows and workflow integrations
+> - 🧪 Developed an automated Data Quality Validation framework for validating source systems against Power BI DAX measures using Snowflake and Streamlit
+> - 📚 Currently deepening skills in AI-powered workflow automation using Make and n8n
 
 </td>
     </tr>
