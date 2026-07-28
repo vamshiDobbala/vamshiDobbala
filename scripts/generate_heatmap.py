@@ -104,7 +104,7 @@ def build_svg(weeks, username: str, static: bool) -> str:
                 f'rx="2" fill="{color}">{title_el}</rect>'
             )
 
-    caption = f"{contrib_total} active days shown &middot; @{username}"
+    caption = f"{contrib_total} active days shown · @{username}"
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">
 {style}
   <rect class="bg" x="0" y="0" width="{width}" height="{height}" rx="10"/>
