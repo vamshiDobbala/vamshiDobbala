@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vamsi Dobbala</h1>
 
-<h3 align="center">Analytics Engineer focused on AI-powered data workflows</h3>
+<h3 align="center">Data Engineer | Data Analyst | AI-Powered Workflow Automation</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Snowflake+%7C+DBT+%7C+SQL+%7C+Power+BI;Building+BI+Automation+%26+Workflow+Integrations" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Snowflake+%7C+DBT+%7C+SQL+%7C+Power+BI;Data+Pipelines+First+%E2%80%94+Analytics+%2B+AI+Automation+on+Top" 
       alt="Typing SVG" 
     />
   </a>
@@ -30,11 +30,11 @@
 > [!NOTE]
 > **🚀 About Me**
 >
-> - 💼 Data Engineer / Analyst with experience in modern BI and analytics workflows
-> - 📊 Built a Power BI Theme Studio to simplify and accelerate enterprise dashboard theming workflows — [powerbithemegenerator.lovable.app](https://powerbithemegenerator.lovable.app)
-> - ⚙️ Building BI automation workflows and workflow integrations
+> - 🏗️ Data Engineer at the core — building warehouses, DBT pipelines, and medallion architectures on Snowflake, AWS, and GCP
+> - 📊 Data Analyst experience on top of that foundation — modern BI, dashboarding, and analytics workflows
+> - ⚙️ Extending both with AI-powered workflow automation using Make, n8n, and MCP integrations
 > - 🧪 Developed an automated Data Quality Validation framework for validating source systems against Power BI DAX measures using Snowflake and Streamlit
-> - 📚 Currently deepening skills in AI-powered workflow automation using Make and n8n
+> - 🎨 Built a Power BI Theme Studio to simplify and accelerate enterprise dashboard theming workflows — [powerbithemegenerator.lovable.app](https://powerbithemegenerator.lovable.app)
 
 </td>
     </tr>
