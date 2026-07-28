@@ -14,13 +14,6 @@
 ---
 
 <div align="center">
-  <h3><code>vamsi@github ~ $ ./contributions.sh</code></h3>
-  <img src="https://cdn.jsdelivr.net/gh/vamshiDobbala/vamshiDobbala@main/assets/contrib-heatmap.svg?v=2" width="775" alt="Contribution heatmap" />
-</div>
-
----
-
-<div align="center">
   <h3><code>vamsi@github ~ $ whoami</code></h3>
   <table>
     <tr>
@@ -39,6 +32,13 @@
 </td>
     </tr>
   </table>
+</div>
+
+---
+
+<div align="center">
+  <h3><code>vamsi@github ~ $ ./contributions.sh</code></h3>
+  <img src="https://cdn.jsdelivr.net/gh/vamshiDobbala/vamshiDobbala@main/assets/contrib-heatmap.svg?v=2" width="775" alt="Contribution heatmap" />
 </div>
 
 ---
